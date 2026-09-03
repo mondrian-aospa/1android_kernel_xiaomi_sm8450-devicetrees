@@ -157,7 +157,7 @@
 				39 00 00 40 00 00 02 87 21
 				39 00 00 00 00 00 02 85 00
 			];
-			mi,mdss-dsi-local-hbm-normal-white-110nit-command-update  = <0x87 29 3>, <0xD0 27 6>;
+			mi,mdss-dsi-local-hbm-normal-white-110nit-command-update  = <0x87 29 2>, <0xD0 27 6>;
 			mi,mdss-dsi-local-hbm-normal-white-110nit-command-state = "dsi_hs_mode";
 
 			mi,mdss-dsi-local-hbm-hlpm-white-110nit-command = [
@@ -213,7 +213,7 @@
 				15 00 00 40 00 00 02 87 21
 				15 00 00 00 00 00 02 85 00
 			];
-			mi,mdss-dsi-local-hbm-hlpm-white-110nit-command-update  = <0x51 2 2>, <0x87 38 3>, <0xD0 36 6>;
+			mi,mdss-dsi-local-hbm-hlpm-white-110nit-command-update  = <0x51 2 2>, <0x87 38 2>, <0xD0 36 6>;
 			mi,mdss-dsi-local-hbm-hlpm-white-110nit-command-state = "dsi_hs_mode";
 
 			mi,mdss-dsi-local-hbm-normal-green-500nit-command = [
