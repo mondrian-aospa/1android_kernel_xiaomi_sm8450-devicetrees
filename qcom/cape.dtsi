@@ -443,12 +443,6 @@
 			alignment = <0x0 0x400000>;
 			size = <0x0 0x400000>;
 	};
-
-	ramoops_mem: ramoops_region {
-		compatible = "ramoops";
-		alloc-ranges = <0x0 0x00000000 0xffffffff 0xffffffff>;
-		mem-type = <2>;
-	};
 };
 
 #include "waipio-clock.dtsi"
